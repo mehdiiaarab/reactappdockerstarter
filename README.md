@@ -1,2 +1,2 @@
 # reactappdockerstarter
-React App Starter Kit runing on Docker
+React App with Express Starter Kit runing on Docker
